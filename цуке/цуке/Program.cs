@@ -10,7 +10,8 @@ namespace цуке
     {
         static void Main(string[] args)
         {
-            ырыпапыыыуе
+            йу343434311
+                аорора
         }
     }
 }
