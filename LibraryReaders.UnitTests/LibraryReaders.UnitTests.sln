@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryReaders.UnitTests", "LibraryReaders.UnitTests\LibraryReaders.UnitTests.csproj", "{5C80D9F7-1C95-4F61-9B5A-9620E73AEFD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryReaders", "LibraryReaders\LibraryReaders.csproj", "{ADD224FC-A87E-4F77-9832-D282EEF1460B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C80D9F7-1C95-4F61-9B5A-9620E73AEFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C80D9F7-1C95-4F61-9B5A-9620E73AEFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C80D9F7-1C95-4F61-9B5A-9620E73AEFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C80D9F7-1C95-4F61-9B5A-9620E73AEFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD224FC-A87E-4F77-9832-D282EEF1460B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD224FC-A87E-4F77-9832-D282EEF1460B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD224FC-A87E-4F77-9832-D282EEF1460B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD224FC-A87E-4F77-9832-D282EEF1460B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF78E13-1309-43C1-BC18-0D779BF37F70}
+	EndGlobalSection
+EndGlobal
